@@ -1,0 +1,111 @@
+button{
+  background-color: white;
+  background-image: url('AOGD-logo-49.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60%;
+  height: 40pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button:hover{
+  background-color: #FF7333;
+}
+
+button1{
+  background-color: white;
+  background-image: url('Haas.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60%;
+  height: 92pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button1:hover{
+  background-color: #FF7333;
+}
+
+button2{
+  background-color: white;
+  background-image: url('northcentraldoor.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 95%;
+  height: 92pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button2:hover{
+  background-color: #FF7333;
+}
+
+button3{
+  background-color: white;
+  background-image: url('CHI.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 65%;
+  height: 92pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button3:hover{
+  background-color: #FF7333;
+}
+
+button4{
+  background-color: white;
+  background-image: url('garaga.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  height: 92pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button4:hover{
+  background-color: #FF7333;
+}
+
+button5{
+  background-color: white;
+  background-image: url('AOGD-logo-49.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60%;
+  height: 92pt;
+  width: 262pt;
+  border-radius: 69px;
+}
+
+button5:hover{
+  background-color: #FF7333;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.container1{
+  display: flex;
+  justify-content: center;
+  gap: 5.5%;
+  margin-top: 30.5%;
+}
+
+.container2{
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+body{
+  background-image: url('BUILDYOURDREAMDOOR.jpg');
+}
